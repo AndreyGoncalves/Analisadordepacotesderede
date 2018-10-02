@@ -1,0 +1,1 @@
+O projeto aqui implementado lista de várias formas e apresenta um histograma os pacotes de rede do arquivo redes2-entrada.txt
